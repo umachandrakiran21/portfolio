@@ -1,20 +1,16 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: white;
-    margin: 20px;
+    background-color: #f4f4f4;
 }
 
-h1 {
-    color: blue;
+#name {
     text-align: center;
-    border-bottom: 2px solid black;
-    
+    color: blue;
 }
 
-h2 {
-    color: green;
-}
-
-p, li {
-    font-size: 18px;
+.section {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
 }
